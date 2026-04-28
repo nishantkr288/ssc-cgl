@@ -1,0 +1,177 @@
+[
+  {
+    "question_number": 1,
+    "question": "Identify the segment in the sentence which contains a grammatical error: 'Hardly had he stepped out of the house than it began to rain cats and dogs, soaking him to the bone.'",
+    "options": ["Hardly had he stepped", "out of the house", "than it began", "soaking him to the bone"],
+    "correct_answer": "than it began",
+    "logic": "The correlative conjunction 'Hardly/Scarcely' is always followed by 'when', not 'than'. 'Than' is used with 'No sooner'."
+  },
+  {
+    "question_number": 2,
+    "question": "Select the most appropriate synonym of the given word: PUSILLANIMOUS",
+    "options": ["Gallant", "Cowardly", "Perspicacious", "Mellifluous"],
+    "correct_answer": "Cowardly",
+    "logic": "Pusillanimous means lacking courage or resolution; timid. 'Gallant' is an antonym, 'Perspicacious' means having a ready insight, and 'Mellifluous' means sweet-sounding."
+  },
+  {
+    "question_number": 3,
+    "question": "Select the option that expresses the given sentence in Passive Voice: 'The committee is considering the proposal for the construction of a new bridge over the river.'",
+    "options": ["The proposal for the construction of a new bridge is considered by the committee.", "The proposal for the construction of a new bridge was being considered by the committee.", "The proposal for the construction of a new bridge is being considered by the committee.", "The proposal for the construction of a new bridge has been considered by the committee."],
+    "correct_answer": "The proposal for the construction of a new bridge is being considered by the committee.",
+    "logic": "Present Continuous (is considering) changes to 'is/am/are + being + V3' (is being considered)."
+  },
+  {
+    "question_number": 4,
+    "question": "Choose the most appropriate word to fill in the blank: 'The diplomat’s ______ behavior during the negotiations helped to de-escalate the tension between the two nations.'",
+    "options": ["Belligerent", "Conciliatory", "Fractious", "Inimical"],
+    "correct_answer": "Conciliatory",
+    "logic": "Conciliatory means intended to placate or pacify. Since it helped 'de-escalate tension', this is the only logically fitting positive word."
+  },
+  {
+    "question_number": 5,
+    "question": "Select the most appropriate meaning of the idiom: TO TILT AT WINDMILLS",
+    "options": ["To do something effectively", "To fight imaginary enemies", "To be extremely busy", "To behave in a childish manner"],
+    "correct_answer": "To fight imaginary enemies",
+    "logic": "Derived from Don Quixote, it means to attack imaginary enemies or waste time fighting battles that are not real."
+  },
+  {
+    "question_number": 6,
+    "question": "Select the correctly spelt word:",
+    "options": ["Accommodation", "Acomodation", "Accomodation", "Acommodation"],
+    "correct_answer": "Accommodation",
+    "logic": "Accommodation is spelled with a double 'c' and a double 'm'."
+  },
+  {
+    "question_number": 7,
+    "question": "Select the most appropriate antonym of the given word: CALLOUS",
+    "options": ["Apathetic", "Indurated", "Compassionate", "Obdurate"],
+    "correct_answer": "Compassionate",
+    "logic": "Callous means showing a cruel disregard for others (insensitive). Compassionate is the direct antonym. 'Obdurate' and 'Indurated' are synonyms."
+  },
+  {
+    "question_number": 8,
+    "question": "Select the option that expresses the given sentence in Indirect Speech: 'He said to me, \"Wait here until I return.\"'",
+    "options": ["He told me to wait there until he returns.", "He asked me to wait here until he returned.", "He ordered me to wait there until he returned.", "He told me to wait here until he will return."],
+    "correct_answer": "He ordered me to wait there until he returned.",
+    "logic": "In indirect speech, 'here' changes to 'there', and the present tense 'return' changes to past 'returned'. Since it's an imperative sentence, 'ordered/told' is used with 'to'."
+  },
+  {
+    "question_number": 9,
+    "question": "Choose the one-word substitution for: 'A person who is indifferent to pleasure or pain.'",
+    "options": ["Stoic", "Epicurean", "Hedonist", "Sybarite"],
+    "correct_answer": "Stoic",
+    "logic": "A Stoic is someone who can endure pain or hardship without showing their feelings or complaining."
+  },
+  {
+    "question_number": 10,
+    "question": "Find the error: 'None of the two candidates who applied for the post was found suitable.'",
+    "options": ["None of the", "two candidates", "who applied", "was found suitable"],
+    "correct_answer": "None of the",
+    "logic": "When referring to exactly 'two' people, 'Neither' should be used instead of 'None'. 'None' is used for more than two."
+  },
+  {
+    "question_number": 11,
+    "question": "Improve the bracketed part: 'If I (was) you, I would have accepted the offer immediately.'",
+    "options": ["am", "had been", "were", "No improvement"],
+    "correct_answer": "were",
+    "logic": "In subjunctive mood (imaginary conditions), 'were' is used for all subjects regardless of number (If I were, If he were)."
+  },
+  {
+    "question_number": 12,
+    "question": "Select the synonym of: ABSTEMIOUS",
+    "options": ["Gluttonous", "Temperate", "Greedy", "Voracious"],
+    "correct_answer": "Temperate",
+    "logic": "Abstemious means not self-indulgent, especially when eating and drinking. 'Temperate' is a synonym. Others are antonyms."
+  },
+  {
+    "question_number": 13,
+    "question": "Select the meaning of the idiom: A BOLT FROM THE BLUE",
+    "options": ["A lucky charm", "An unexpected disaster", "A bright light", "A loud noise"],
+    "correct_answer": "An unexpected disaster",
+    "logic": "Refers to something completely unexpected and usually unpleasant."
+  },
+  {
+    "question_number": 14,
+    "question": "Identify the error: 'The furniture in this room are made of high-quality teak wood.'",
+    "options": ["The furniture", "in this room", "are made of", "no error"],
+    "correct_answer": "are made of",
+    "logic": "'Furniture' is an uncountable noun and always takes a singular verb. It should be 'is made of'."
+  },
+  {
+    "question_number": 15,
+    "question": "One word substitution: 'The study of ancient inscriptions.'",
+    "options": ["Paleontology", "Epigraphy", "Archaeology", "Etymology"],
+    "correct_answer": "Epigraphy",
+    "logic": "Epigraphy is the study and interpretation of ancient inscriptions."
+  },
+  {
+    "question_number": 16,
+    "question": "Select the antonym of: LOQUACIOUS",
+    "options": ["Garrulous", "Reticent", "Verbose", "Talkative"],
+    "correct_answer": "Reticent",
+    "logic": "Loquacious means talkative. Reticent means not revealing one's thoughts or feelings readily (quiet/reserved)."
+  },
+  {
+    "question_number": 17,
+    "question": "Improve the sentence: 'He is as tall, if not taller than, his brother.'",
+    "options": ["as tall as", "so tall as", "tall as", "No improvement"],
+    "correct_answer": "as tall as",
+    "logic": "The structure 'as + adjective + as' must be complete. It should be 'as tall as, if not taller than'."
+  },
+  {
+    "question_number": 18,
+    "question": "Fill in the blank: 'The new law was ______ to prevent the exploitation of labor.'",
+    "options": ["Enacted", "Induced", "Enticed", "Evoked"],
+    "correct_answer": "Enacted",
+    "logic": "Laws are 'enacted' (made into law). 'Induced' means persuaded, 'Enticed' means attracted, 'Evoked' means brought to mind."
+  },
+  {
+    "question_number": 19,
+    "question": "Choose the correct voice: 'Who wrote this book?'",
+    "options": ["By whom this book was written?", "By whom was this book written?", "Whom was this book written by?", "This book was written by whom?"],
+    "correct_answer": "By whom was this book written?",
+    "logic": "Interrogative 'Who' changes to 'By whom' + auxiliary verb + subject + V3."
+  },
+  {
+    "question_number": 20,
+    "question": "Select the meaning of the idiom: TO KEEP THE WOLF FROM THE DOOR",
+    "options": ["To avoid extreme poverty", "To guard against thieves", "To keep animals away", "To live a luxurious life"],
+    "correct_answer": "To avoid extreme poverty",
+    "logic": "It means to have enough money to buy food and other necessary things to survive."
+  },
+  {
+    "question_number": 21,
+    "question": "Identify the error: 'Unless you do not work hard, you will not pass the examination.'",
+    "options": ["Unless you", "do not work", "hard, you will", "not pass"],
+    "correct_answer": "do not work",
+    "logic": "'Unless' is itself negative (if not). Therefore, using 'do not' with 'unless' creates a double negative. It should be 'Unless you work hard'."
+  },
+  {
+    "question_number": 22,
+    "question": "Select the synonym of: EPHEMERAL",
+    "options": ["Eternal", "Transient", "Perpetual", "Enduring"],
+    "correct_answer": "Transient",
+    "logic": "Ephemeral means lasting for a very short time. 'Transient' is its synonym. Others are antonyms."
+  },
+  {
+    "question_number": 23,
+    "question": "One word substitution: 'A place where bees are kept.'",
+    "options": ["Aviary", "Apiary", "Aquarium", "Menagerie"],
+    "correct_answer": "Apiary",
+    "logic": "Apiary (from Latin 'apis' for bee). 'Aviary' is for birds."
+  },
+  {
+    "question_number": 24,
+    "question": "Fill in the blank: 'She has a ______ for languages, having mastered five in just three years.'",
+    "options": ["Propensity", "Faculty", "Felicity", "Facility"],
+    "correct_answer": "Faculty",
+    "logic": "A 'faculty' is an inherent mental or physical power/aptitude. 'Facility' means ease but 'faculty for languages' is a more idiomatic way to describe an innate talent."
+  },
+  {
+    "question_number": 25,
+    "question": "Find the error: 'The captain along with his team are arriving today for the final match.'",
+    "options": ["The captain along", "with his team", "are arriving", "no error"],
+    "correct_answer": "are arriving",
+    "logic": "When subjects are joined by 'along with', 'as well as', 'together with', the verb agrees with the first subject (The captain), which is singular. It should be 'is arriving'."
+  }
+]
