@@ -1,0 +1,177 @@
+[
+  {
+    "question_number": 1,
+    "question": "In the administrative structure of the Delhi Sultanate, the officer known as 'Amir-i-Akhur' was entrusted with which of the following responsibilities?",
+    "options": ["Head of the state intelligence department", "Superintendent of the Royal Horses (Cavalry)", "Chief administrator of religious endowments", "Minister in charge of agricultural loans"],
+    "correct_answer": "Superintendent of the Royal Horses (Cavalry)",
+    "logic": "In the Delhi Sultanate, 'Amir-i-Akhur' was an important military designation meaning the commander of the cavalry or Superintendent of Royal Horses. Qutb-ud-din Aibak held this post under Muhammad Ghori before establishing the Slave Dynasty."
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following Constitutional Amendment Acts provided for the authoritative text of the Constitution of India in the Hindi language?",
+    "options": ["58th Amendment Act, 1987", "42nd Amendment Act, 1976", "44th Amendment Act, 1978", "52nd Amendment Act, 1985"],
+    "correct_answer": "58th Amendment Act, 1987",
+    "logic": "The 58th Constitutional Amendment Act of 1987 inserted a new Article 394-A in Part XXII of the Constitution, which empowered the President to publish the translation of the Constitution in Hindi signed by the members of the Constituent Assembly."
+  },
+  {
+    "question_number": 3,
+    "question": "The 'Hassall's corpuscles' are microscopic structures found uniquely in which of the following human organs?",
+    "options": ["Spleen", "Thyroid gland", "Thymus gland", "Kidney cortex"],
+    "correct_answer": "Thymus gland",
+    "logic": "Hassall's corpuscles (or thymic corpuscles) are structures found in the medulla of the human thymus. Their exact function is still studied, but they are believed to be involved in the differentiation and education of T-cells."
+  },
+  {
+    "question_number": 4,
+    "question": "In the context of the Mauryan Empire's administration, the official designated as 'Sitadhyaksha' was responsible for overseeing:",
+    "options": ["Maritime trade and ports", "Weights and measures", "Crown lands and agriculture", "Royal treasury and mints"],
+    "correct_answer": "Crown lands and agriculture",
+    "logic": "According to Kautilya's Arthashastra, 'Sitadhyaksha' was the Superintendent of Agriculture who managed the crown lands (Sita) and supervised the cultivation, seed collection, and agricultural output of the state-owned farms."
+  },
+  {
+    "question_number": 5,
+    "question": "Which specific sub-style of the traditional folk ballad 'Pandavani' involves the narrator standing up and enacting the scenes with intense theatrical expression?",
+    "options": ["Vedamati", "Kapalik", "Gowari", "Raut"],
+    "correct_answer": "Kapalik",
+    "logic": "Pandavani, a folk ballad of Chhattisgarh, has two main styles: Vedamati (where the performer sits and sings in a restrained manner, e.g., Jhaduram Devangan) and Kapalik (where the performer stands and enacts the epic dynamically, e.g., Teejan Bai)."
+  },
+  {
+    "question_number": 6,
+    "question": "The 'Phawngpui' peak, commonly known as the Blue Mountain, is the highest mountain peak of which of the following hill ranges in India?",
+    "options": ["Patkai Bum", "Lushai Hills", "Garo Hills", "Naga Hills"],
+    "correct_answer": "Lushai Hills",
+    "logic": "Phawngpui (Blue Mountain) is the highest mountain peak in the Lushai Hills (Mizo Hills) and the state of Mizoram, standing at an elevation of 2,157 meters."
+  },
+  {
+    "question_number": 7,
+    "question": "The historical 'Treaty of Yandabo', which led to the annexation of Assam, Manipur, and Arakan by the British, was signed in 1826 to conclude which war?",
+    "options": ["First Anglo-Burmese War", "Second Anglo-Burmese War", "Anglo-Nepalese War", "First Anglo-Afghan War"],
+    "correct_answer": "First Anglo-Burmese War",
+    "logic": "The Treaty of Yandabo (1826) marked the end of the First Anglo-Burmese War. The Burmese king was forced to cede Assam, Manipur, Arakan, and Tenasserim to the British East India Company."
+  },
+  {
+    "question_number": 8,
+    "question": "In the context of thermodynamics and the Joule-Thomson effect, what happens to Hydrogen gas when it is allowed to expand through a porous plug at room temperature?",
+    "options": ["It undergoes severe cooling", "Its temperature remains strictly constant", "It undergoes heating", "It changes its physical state to liquid"],
+    "correct_answer": "It undergoes heating",
+    "logic": "Most gases cool down upon expansion at room temperature under the Joule-Thomson effect. However, Hydrogen, Helium, and Neon are exceptions; their inversion temperatures are well below room temperature. Therefore, when expanded at room temperature, they heat up."
+  },
+  {
+    "question_number": 9,
+    "question": "During the Mughal period under Akbar's land revenue system (Zabt), what did the term 'Polaj' explicitly denote?",
+    "options": ["Land left uncultivated for 3 to 4 years", "Land continuously cultivated every year without being left fallow", "Land given as tax-free grants to scholars", "Land cultivated only during the monsoon season"],
+    "correct_answer": "Land continuously cultivated every year without being left fallow",
+    "logic": "In Todar Mal's Bandobast, land was divided into four categories based on cultivation frequency. 'Polaj' was the highest quality land, continually cultivated for every crop and never allowed to lie fallow."
+  },
+  {
+    "question_number": 10,
+    "question": "Article 371-J of the Constitution of India grants special provisions for the establishment of a separate development board for which specific region?",
+    "options": ["Saurashtra and Kutch", "Vidarbha and Marathwada", "Hyderabad-Karnataka region", "Sikkim state"],
+    "correct_answer": "Hyderabad-Karnataka region",
+    "logic": "Inserted by the 98th Constitutional Amendment Act of 2012, Article 371-J grants special status to six backward districts of the Hyderabad-Karnataka region to establish a separate development board and provide reservation in education and state government jobs."
+  },
+  {
+    "question_number": 11,
+    "question": "The 'Montreux Record' is a register of wetland sites where changes in ecological character have occurred. Which of the following pairs of Indian sites are currently listed in the Montreux Record?",
+    "options": ["Chilika Lake and Loktak Lake", "Keoladeo National Park and Loktak Lake", "Wular Lake and Ashtamudi Wetland", "Sambhar Lake and Keoladeo National Park"],
+    "correct_answer": "Keoladeo National Park and Loktak Lake",
+    "logic": "Currently, only two Indian sites are on the Montreux Record: Keoladeo National Park (Rajasthan) and Loktak Lake (Manipur). Chilika Lake (Odisha) was placed on the record but was later removed in 2002 due to successful restoration efforts."
+  },
+  {
+    "question_number": 12,
+    "question": "Which ancient Indian treatise, authored by King Someshvara III of the Kalyani Chalukya dynasty, is often regarded as an early encyclopedia covering subjects from statecraft to culinary arts?",
+    "options": ["Natyashastra", "Manasollasa", "Brihat Samhita", "Samarangana Sutradhara"],
+    "correct_answer": "Manasollasa",
+    "logic": "Manasollasa, also known as Abhilashitarthachintamani, is a 12th-century Sanskrit text composed by the Western Chalukya king Someshvara III. It covers a vast range of topics including polity, art, architecture, cuisine, and astrology."
+  },
+  {
+    "question_number": 13,
+    "question": "In the context of the Indian economy and RBI's monetary framework, the 'Bimal Jalan Committee' was primarily constituted in 2018 for which of the following purposes?",
+    "options": ["To review the framework for resolving Non-Performing Assets (NPAs)", "To evaluate the Economic Capital Framework (ECF) of the RBI", "To suggest measures for deepening digital payments", "To restructure the criteria for Priority Sector Lending (PSL)"],
+    "correct_answer": "To evaluate the Economic Capital Framework (ECF) of the RBI",
+    "logic": "The Bimal Jalan Committee was formed by the RBI to review its Economic Capital Framework (ECF), determining how much contingent risk buffer the central bank should maintain and how much surplus dividend could be transferred to the Government."
+  },
+  {
+    "question_number": 14,
+    "question": "What is the chemical composition of the naturally occurring mineral known as 'Anglesite'?",
+    "options": ["Copper carbonate", "Lead sulfate", "Zinc silicate", "Iron sulfide"],
+    "correct_answer": "Lead sulfate",
+    "logic": "Anglesite is a lead sulfate mineral with the chemical formula PbSO4. It occurs as an oxidation product of primary lead sulfide ore, galena. It is named after the island of Anglesey in Wales."
+  },
+  {
+    "question_number": 15,
+    "question": "The 'Paitkar' painting, traditionally created on scrolls made of palm leaves or cloth, is an indigenous folk art form originating from which Indian state?",
+    "options": ["Odisha", "Jharkhand", "Chhattisgarh", "West Bengal"],
+    "correct_answer": "Jharkhand",
+    "logic": "Paitkar scroll painting is a traditional folk art primarily practiced by the tribal communities (like the Santhals) in the eastern parts of Jharkhand, specifically in the Amadubi village of East Singhbhum district."
+  },
+  {
+    "question_number": 16,
+    "question": "According to the Supreme Court's landmark 'Samatha Judgment' (1997), under which Schedule of the Indian Constitution can the transfer of tribal land to non-tribal private industries for mining be declared null and void?",
+    "options": ["Fourth Schedule", "Fifth Schedule", "Sixth Schedule", "Ninth Schedule"],
+    "correct_answer": "Fifth Schedule",
+    "logic": "The Samatha vs State of AP judgment ruled that government lands, tribal lands, and forest lands in the Scheduled Areas cannot be leased to non-tribals or private companies for mining, invoking the protections guaranteed under the Fifth Schedule."
+  },
+  {
+    "question_number": 17,
+    "question": "Which of the following ocean currents is characterized as a cold, nutrient-rich current flowing northward along the western coast of southern Africa?",
+    "options": ["Agulhas Current", "Canary Current", "Benguela Current", "Brazil Current"],
+    "correct_answer": "Benguela Current",
+    "logic": "The Benguela Current is the broad, northward flowing cold ocean current that forms the eastern portion of the South Atlantic Ocean gyre, moving along the west coast of southern Africa (Namibia, South Africa)."
+  },
+  {
+    "question_number": 18,
+    "question": "Who among the following socio-religious reformers was instrumental in founding the 'Paramahansa Mandali' in Bombay in 1849?",
+    "options": ["Atmaram Pandurang", "Dadoba Pandurang and Mehtaji Durgaram", "Jyotirao Phule", "Gopal Hari Deshmukh"],
+    "correct_answer": "Dadoba Pandurang and Mehtaji Durgaram",
+    "logic": "Paramahansa Mandali was a secret socio-religious group established in 1849 in Bombay by Dadoba Pandurang and Mehtaji Durgaram. It aimed at the abolition of the caste system and idol worship."
+  },
+  {
+    "question_number": 19,
+    "question": "In macroeconomic theory, 'Gresham's Law'—which states that 'bad money drives out good money'—operates most strictly under which of the following monetary systems?",
+    "options": ["Fiat Money System", "Bimetallism", "Free Floating Exchange Rate System", "Fractional Reserve Banking"],
+    "correct_answer": "Bimetallism",
+    "logic": "Gresham's Law primarily applies in a bimetallic standard (e.g., gold and silver) where the government assigns fixed exchange rates. If the face value differs from the market value of the metals, the undervalued metal (good money) gets hoarded or melted, while the overvalued metal (bad money) stays in circulation."
+  },
+  {
+    "question_number": 20,
+    "question": "The 'Jelep La' pass, a high mountain pass at an elevation of over 14,000 feet, serves as a crucial route connecting which two regions?",
+    "options": ["Sikkim and the Chumbi Valley (Tibet)", "Himachal Pradesh and Ladakh", "Uttarakhand and Mount Kailash", "Arunachal Pradesh and Myanmar"],
+    "correct_answer": "Sikkim and the Chumbi Valley (Tibet)",
+    "logic": "Jelep La is a high altitude mountain pass connecting East Sikkim in India with the Chumbi Valley in the Tibet Autonomous Region of China. It forms part of the historic trade route between India and Tibet."
+  },
+  {
+    "question_number": 21,
+    "question": "Which Indian communication satellite is famously nicknamed 'Rukmini' and serves as the dedicated military communication satellite for the Indian Navy?",
+    "options": ["GSAT-6", "GSAT-7", "GSAT-7A", "RISAT-2BR1"],
+    "correct_answer": "GSAT-7",
+    "logic": "GSAT-7, launched in 2013 and nicknamed 'Rukmini', is an advanced communication satellite built by ISRO. It is India's first dedicated military satellite, primarily serving the communication needs of the Indian Navy."
+  },
+  {
+    "question_number": 22,
+    "question": "Under Articles 341 and 342 of the Indian Constitution, who holds the exclusive power to initially specify which castes, races, or tribes shall be deemed as Scheduled Castes or Scheduled Tribes in a particular State/UT?",
+    "options": ["The Parliament of India", "The President of India (after consultation with the Governor)", "The National Commission for Scheduled Castes", "The Governor of the respective State"],
+    "correct_answer": "The President of India (after consultation with the Governor)",
+    "logic": "Articles 341 and 342 empower the President of India to issue the initial notification specifying the SCs and STs for a state or UT, in consultation with the Governor. However, any subsequent inclusion or exclusion can only be done by an Act of Parliament."
+  },
+  {
+    "question_number": 23,
+    "question": "The river 'Kishanganga', known for the controversial hydroelectric plant built on it, is a major tributary of which river system?",
+    "options": ["Chenab", "Jhelum", "Ravi", "Sutlej"],
+    "correct_answer": "Jhelum",
+    "logic": "The Kishanganga River (known as the Neelum River in Pakistan) originates in Jammu and Kashmir and flows through the Gurez valley before merging into the Jhelum River near Muzaffarabad."
+  },
+  {
+    "question_number": 24,
+    "question": "In the classification of Indian festivals, the 'Tarnetar Fair' is a popular rural and cultural festival associated with the matchmaking of tribal youth in which state?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Haryana"],
+    "correct_answer": "Gujarat",
+    "logic": "The Tarnetar Fair is held around the Trinetreshwar Temple in the Surendranagar district of Gujarat. It is famous for its vibrant traditional costumes, ethnic dances (Raas), and historically served as a marriage mart for local tribal communities like Kolis and Bharwads."
+  },
+  {
+    "question_number": 25,
+    "question": "In cellular biology, the specific enzyme 'Topoisomerase' performs which critical function during the process of DNA replication?",
+    "options": ["It adds complementary nucleotides to the leading strand", "It seals the Okazaki fragments on the lagging strand", "It unwinds the double helix structure directly at the replication fork", "It relieves the torsional strain and supercoiling ahead of the replication fork"],
+    "correct_answer": "It relieves the torsional strain and supercoiling ahead of the replication fork",
+    "logic": "While DNA Helicase is responsible for physically unwinding the double helix, this rapid unzipping creates intense tension (supercoiling) ahead of the fork. Topoisomerase prevents DNA tangling and strand breakage by temporarily cutting, untwisting, and rejoining the DNA strands to relieve this strain."
+  }
+]
