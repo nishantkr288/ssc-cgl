@@ -1,0 +1,177 @@
+[
+  {
+    "question_number": 1,
+    "question": "If $x+y+z = 18$ and $xy+yz+zx = 90$, then what is the value of $\\sqrt[3]{x^3+y^3+z^3-3xyz + 28}$?",
+    "options": ["8", "10", "12", "14"],
+    "correct_answer": "10",
+    "logic": "The algebraic identity is $x^3+y^3+z^3-3xyz = (x+y+z)[(x+y+z)^2 - 3(xy+yz+zx)]$. Substituting the given values: $18 \\times [18^2 - 3(90)] = 18 \\times [324 - 270] = 18 \\times 54 = 972$. Now, add 28 to this value: $972 + 28 = 1000$. The cube root of 1000 is 10."
+  },
+  {
+    "question_number": 2,
+    "question": "In $\\triangle ABC$, the medians $AD$ and $CE$ intersect at point $M$ at right angles. If $AD = 9$ cm and $CE = 12$ cm, find the length of $AC$.",
+    "options": ["10 cm", "12.5 cm", "15 cm", "20 cm"],
+    "correct_answer": "10 cm",
+    "logic": "The centroid $M$ divides each median in the ratio $2:1$. Therefore, $AM = \\frac{2}{3} \\times 9 = 6$ cm, and $CM = \\frac{2}{3} \\times 12 = 8$ cm. In the right-angled $\\triangle AMC$ (since medians intersect at $90^{\\circ}$), using Pythagoras theorem: $AC^2 = AM^2 + CM^2 = 6^2 + 8^2 = 36 + 64 = 100$. Thus, $AC = 10$ cm."
+  },
+  {
+    "question_number": 3,
+    "question": "If $12\\sin^2\\theta + 4\\sin\\theta - 5 = 0$, where $0^{\\circ} < \\theta < 90^{\\circ}$, then find the value of $\\frac{\\sec\\theta + \\tan\\theta}{\\text{cosec}\\theta - \\cot\\theta}$.",
+    "options": ["$3-2\\sqrt{3}$", "$3+2\\sqrt{3}$", "$2+3\\sqrt{3}$", "$2\\sqrt{3}+3$"],
+    "correct_answer": "$2\\sqrt{3}+3$",
+    "logic": "Factorize the quadratic equation: $12\\sin^2\\theta + 10\\sin\\theta - 6\\sin\\theta - 5 = 0 \\implies (2\\sin\\theta - 1)(6\\sin\\theta + 5) = 0$. Since $\\theta$ is in the first quadrant, $\\sin\\theta = \\frac{1}{2}$, which means $\\theta = 30^{\\circ}$. Substitute $\\theta = 30^{\\circ}$: Numerator = $\\sec 30^{\\circ} + \\tan 30^{\\circ} = \\frac{2}{\\sqrt{3}} + \\frac{1}{\\sqrt{3}} = \\sqrt{3}$. Denominator = $\\text{cosec} 30^{\\circ} - \\cot 30^{\\circ} = 2 - \\sqrt{3}$. Expression value = $\\frac{\\sqrt{3}}{2-\\sqrt{3}}$. Rationalize the denominator to get $\\sqrt{3}(2+\\sqrt{3}) = 2\\sqrt{3} + 3$."
+  },
+  {
+    "question_number": 4,
+    "question": "A shopkeeper allows a $28\\%$ discount on the marked price of an article and still makes a profit of $20\\%$. If he gains ₹300 on the sale of one article, what will be the selling price if he allows a discount of $15\\%$ on the same article?",
+    "options": ["₹2050", "₹2125", "₹2150", "₹2200"],
+    "correct_answer": "₹2125",
+    "logic": "Profit is $20\\%$, which equals ₹300. So, Cost Price (CP) = $\\frac{300}{0.20} = ₹1500$. Original Selling Price (SP) = $1500 + 300 = ₹1800$. Since SP is after a $28\\%$ discount, Marked Price (MP) = $\\frac{1800}{0.72} = ₹2500$. New SP with a $15\\%$ discount = $85\\%$ of MP = $0.85 \\times 2500 = ₹2125$."
+  },
+  {
+    "question_number": 5,
+    "question": "Find the sum of all the factors of 3600 which are multiples of 12.",
+    "options": ["10240", "10416", "10816", "11200"],
+    "correct_answer": "10416",
+    "logic": "Prime factorization: $3600 = 2^4 \\times 3^2 \\times 5^2$. A factor must be a multiple of $12$ ($2^2 \\times 3^1$). We extract 12, leaving $2^2 \\times 3^1 \\times 5^2$. Sum of factors multiple of 12 = $12 \\times (\\text{sum of factors of } 2^2 \\times 3^1 \\times 5^2)$. Thus, Sum = $12 \\times (2^0+2^1+2^2) \\times (3^0+3^1) \\times (5^0+5^1+5^2) = 12 \\times (7) \\times (4) \\times (31) = 12 \\times 868 = 10416$."
+  },
+  {
+    "question_number": 6,
+    "question": "In a circle with radius 10 cm, $PQ$ and $RS$ are two parallel chords of lengths 16 cm and 12 cm respectively. If both chords are on the same side of the center, find the perpendicular distance between them.",
+    "options": ["2 cm", "4 cm", "7 cm", "14 cm"],
+    "correct_answer": "2 cm",
+    "logic": "Distance of a chord from the center = $\\sqrt{R^2 - (\\frac{L}{2})^2}$. For $PQ$: $d_1 = \\sqrt{10^2 - 8^2} = \\sqrt{36} = 6$ cm. For $RS$: $d_2 = \\sqrt{10^2 - 6^2} = \\sqrt{64} = 8$ cm. Since they are on the same side, the distance between them is $d_2 - d_1 = 8 - 6 = 2$ cm."
+  },
+  {
+    "question_number": 7,
+    "question": "A, B, and C can do a piece of work in 20, 24, and 30 days respectively. All three started the work together, but B left 4 days before the completion of the work and C left 5 days before the completion of the work. For how many days did A work?",
+    "options": ["$10 \\frac{1}{3}$ days", "$10 \\frac{2}{3}$ days", "$11 \\frac{1}{3}$ days", "$11 \\frac{2}{3}$ days"],
+    "correct_answer": "$10 \\frac{2}{3}$ days",
+    "logic": "Let total work be LCM(20,24,30) = 120 units. Efficiency: A=6, B=5, C=4. Let the work be completed in $x$ days. A worked for $x$ days, B for $x-4$ days, C for $x-5$ days. Total work: $6x + 5(x-4) + 4(x-5) = 120 \\implies 15x - 40 = 120 \\implies 15x = 160 \\implies x = \\frac{160}{15} = 10 \\frac{2}{3}$ days."
+  },
+  {
+    "question_number": 8,
+    "question": "A person covers a certain distance at a certain speed. If he increases his speed by 10 km/hr, he takes 1 hour less. If he further increases his speed by 10 km/hr (i.e., 20 km/hr more than the original speed), he takes a further 45 minutes less. What is the distance?",
+    "options": ["400 km", "420 km", "450 km", "480 km"],
+    "correct_answer": "420 km",
+    "logic": "Using the formula Distance $D = \\frac{S(S+\\Delta S)}{\\Delta S} \\times \\Delta T$. Case 1: $D = \\frac{S(S+10)}{10} \\times 1$. Case 2: $D = \\frac{S(S+20)}{20} \\times (1 + \\frac{45}{60}) = \\frac{S(S+20)}{20} \\times \\frac{7}{4}$. Equating both: $\\frac{S(S+10)}{10} = \\frac{7S(S+20)}{80} \\implies 8(S+10) = 7(S+20) \\implies 8S+80 = 7S+140 \\implies S = 60$ km/hr. $D = \\frac{60 \\times 70}{10} \\times 1 = 420$ km."
+  },
+  {
+    "question_number": 9,
+    "question": "Find the remainder when $32^{32^{32}}$ is divided by 7.",
+    "options": ["1", "2", "4", "5"],
+    "correct_answer": "4",
+    "logic": "$32 \\equiv 4 \\pmod 7$, so we need $4^{32^{32}} \\pmod 7$. Using Euler's Totient function for 7 (which is 6), we need to find $32^{32} \\pmod 6$. Since $32 \\equiv 2 \\pmod 6$, we need $2^{32} \\pmod 6$. The powers of $2 \\pmod 6$ alternate: $2^1=2, 2^2=4, 2^3=2...$ So $2^{\\text{even}} \\equiv 4 \\pmod 6$. This means $32^{32}$ is of the form $6k + 4$. Returning to our main problem: $4^{6k+4} \\pmod 7 \\equiv 4^4 \\pmod 7 \\equiv 256 \\pmod 7$. Dividing 256 by 7 leaves a remainder of 4."
+  },
+  {
+    "question_number": 10,
+    "question": "If $\\cos\\alpha + \\cos\\beta + \\cos\\gamma = 0$ and $\\sin\\alpha + \\sin\\beta + \\sin\\gamma = 0$, then find the value of $\\cos(2\\alpha) + \\cos(2\\beta) + \\cos(2\\gamma)$.",
+    "options": ["-1", "0", "1", "3"],
+    "correct_answer": "0",
+    "logic": "Using complex numbers, let $z_1 = \\cos\\alpha + i\\sin\\alpha$, $z_2 = \\cos\\beta + i\\sin\\beta$, $z_3 = \\cos\\gamma + i\\sin\\gamma$. The given equations imply $z_1 + z_2 + z_3 = 0$. Squaring this: $z_1^2 + z_2^2 + z_3^2 = -2(z_1z_2 + z_2z_3 + z_3z_1) = -2(z_1z_2z_3)(\\frac{1}{z_3} + \\frac{1}{z_1} + \\frac{1}{z_2})$. Since $|z|=1$, $\\frac{1}{z} = \\overline{z}$. The sum of conjugates is the conjugate of the sum, which is 0. So, $z_1^2 + z_2^2 + z_3^2 = 0$. Equating real parts gives $\\cos(2\\alpha) + \\cos(2\\beta) + \\cos(2\\gamma) = 0$."
+  },
+  {
+    "question_number": 11,
+    "question": "A frustum of a right circular cone has a top radius of 14 cm, a bottom radius of 7 cm, and a height of 24 cm. It is cut into two parts by a plane parallel to the base exactly at the midpoint of its height. What is the ratio of the volume of the upper part to the lower part?",
+    "options": ["19:37", "27:19", "37:19", "37:21"],
+    "correct_answer": "37:19",
+    "logic": "The height is cut at the midpoint, so the new mid-radius is $\\frac{14+7}{2} = 10.5$ cm. Height of each part = 12 cm. Volume formula for frustum: $V = \\frac{1}{3}\\pi h(R^2 + r^2 + Rr)$. Volume of upper part ($R=14, r=10.5$): $V_1 = \\frac{1}{3}\\pi(12)(196 + 110.25 + 147) = 4\\pi(453.25)$. Volume of lower part ($R=10.5, r=7$): $V_2 = \\frac{1}{3}\\pi(12)(110.25 + 49 + 73.5) = 4\\pi(232.75)$. Ratio $V_1:V_2 = 453.25 : 232.75 = 1813 : 931 = 37:19$."
+  },
+  {
+    "question_number": 12,
+    "question": "In $\\triangle ABC$, $\\angle B = 60^{\\circ}$ and $\\angle C = 45^{\\circ}$. The line $AD$ is the internal bisector of $\\angle A$ intersecting $BC$ at $D$. Find the ratio of the area of $\\triangle ABD$ to the area of $\\triangle ACD$.",
+    "options": ["$\\sqrt{2}:\\sqrt{3}$", "$2:3$", "$3:2$", "$\\sqrt{3}:\\sqrt{2}$"],
+    "correct_answer": "$\\sqrt{2}:\\sqrt{3}$",
+    "logic": "By the Angle Bisector Theorem, the ratio of areas of the two triangles formed by the angle bisector is equal to the ratio of their corresponding sides: $\\frac{\\text{Area}(\\triangle ABD)}{\\text{Area}(\\triangle ACD)} = \\frac{BD}{DC} = \\frac{AB}{AC}$. Using the Sine Rule in $\\triangle ABC$: $\\frac{AB}{\\sin C} = \\frac{AC}{\\sin B} \\implies \\frac{AB}{AC} = \\frac{\\sin 45^{\\circ}}{\\sin 60^{\\circ}} = \\frac{\\frac{1}{\\sqrt{2}}}{\\frac{\\sqrt{3}}{2}} = \\frac{2}{\\sqrt{6}} = \\frac{\\sqrt{2}}{\\sqrt{3}}$."
+  },
+  {
+    "question_number": 13,
+    "question": "Pipe A, B, and C can fill a tank in 15, 20, and 30 hours respectively. All three pipes are opened together. Pipe A is closed after 4 hours, and Pipe B is closed 2 hours before the tank is completely filled. In how many hours is the tank filled?",
+    "options": ["8 hours", "10 hours", "12 hours", "14 hours"],
+    "correct_answer": "10 hours",
+    "logic": "Total capacity = LCM(15, 20, 30) = 60 units. Efficiency: A=4, B=3, C=2. Let the tank be filled in $T$ hours. A works for 4 hours, filling $4 \\times 4 = 16$ units. B works for $T-2$ hours, filling $3(T-2)$ units. C works for $T$ hours, filling $2T$ units. Equation: $16 + 3(T-2) + 2T = 60 \\implies 16 + 3T - 6 + 2T = 60 \\implies 5T + 10 = 60 \\implies 5T = 50 \\implies T = 10$ hours."
+  },
+  {
+    "question_number": 14,
+    "question": "What is the area of the triangular region bounded by the graphs of the equations $2x - y + 4 = 0$, $2x + y - 4 = 0$, and the x-axis ($y = 0$)?",
+    "options": ["4 sq units", "8 sq units", "12 sq units", "16 sq units"],
+    "correct_answer": "8 sq units",
+    "logic": "Find the intersections with the x-axis ($y=0$). Line 1: $2x + 4 = 0 \\implies x = -2$, so point is $(-2, 0)$. Line 2: $2x - 4 = 0 \\implies x = 2$, so point is $(2, 0)$. The base length on the x-axis is $2 - (-2) = 4$ units. Now, find the intersection of the two lines: Adding them gives $4x = 0 \\implies x = 0$. Substitute $x=0$ in Line 1: $0 - y + 4 = 0 \\implies y = 4$. The height of the triangle is 4 units. Area = $\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 4 \\times 4 = 8$ sq units."
+  },
+  {
+    "question_number": 15,
+    "question": "A and B start a business with investments of ₹40,000 and ₹50,000 respectively. After 4 months, A increases his investment by 25% and B withdraws 20% of his investment. At the end of the year, the total profit is ₹81,000. Find A's share in the profit.",
+    "options": ["₹39000", "₹40000", "₹42000", "₹45000"],
+    "correct_answer": "₹42000",
+    "logic": "Calculate effective capital. A's investment: $40,000 \\times 4 + (40,000 \\times 1.25) \\times 8 = 1,60,000 + 4,00,000 = 5,60,000$. B's investment: $50,000 \\times 4 + (50,000 \\times 0.80) \\times 8 = 2,00,000 + 3,20,000 = 5,20,000$. Ratio of profit = $560000 : 520000 = 14 : 13$. A's share = $\\frac{14}{27} \\times 81000 = 14 \\times 3000 = ₹42000$."
+  },
+  {
+    "question_number": 16,
+    "question": "If $x = \\frac{\\sqrt{5} - \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}}$ and $y = \\frac{\\sqrt{5} + \\sqrt{3}}{\\sqrt{5} - \\sqrt{3}}$, find the value of $\\frac{x^2 + xy + y^2}{x^2 - xy + y^2}$.",
+    "options": ["$\\frac{61}{63}$", "$\\frac{63}{61}$", "$\\frac{63}{65}$", "$\\frac{65}{63}$"],
+    "correct_answer": "$\\frac{63}{61}$",
+    "logic": "Notice that $y = \\frac{1}{x}$, so $xy = 1$. Calculate $x+y$: $x+y = \\frac{(\\sqrt{5}-\\sqrt{3})^2 + (\\sqrt{5}+\\sqrt{3})^2}{(\\sqrt{5}+\\sqrt{3})(\\sqrt{5}-\\sqrt{3})} = \\frac{2(5+3)}{5-3} = \\frac{16}{2} = 8$. We need $x^2+y^2 = (x+y)^2 - 2xy = 64 - 2 = 62$. Substitute into the expression: $\\frac{62 + 1}{62 - 1} = \\frac{63}{61}$."
+  },
+  {
+    "question_number": 17,
+    "question": "A vessel contains a mixture of acid and water in the ratio 13:4. 34 liters of the mixture is taken out and replaced by 5 liters of acid and 4 liters of water. If the ratio of acid to water becomes 3:1, what was the initial quantity of the mixture?",
+    "options": ["136 L", "153 L", "170 L", "187 L"],
+    "correct_answer": "153 L",
+    "logic": "Let initial mixture be $17x$ liters. Acid = $13x$, Water = $4x$. In 34L removed, acid removed = $\\frac{13}{17} \\times 34 = 26L$, water removed = $8L$. New acid = $13x - 26 + 5 = 13x - 21$. New water = $4x - 8 + 4 = 4x - 4$. The new ratio is $3:1$, so $\\frac{13x - 21}{4x - 4} = \\frac{3}{1} \\implies 13x - 21 = 12x - 12 \\implies x = 9$. Initial quantity = $17x = 17 \\times 9 = 153$ Liters."
+  },
+  {
+    "question_number": 18,
+    "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively. They cross each other in 23 seconds. What is the ratio of their speeds?",
+    "options": ["1:2", "2:3", "3:2", "3:4"],
+    "correct_answer": "3:2",
+    "logic": "Let speeds be $V_1$ and $V_2$. Lengths of trains are $27 V_1$ and $17 V_2$ (using $D=S \\times T$). When crossing each other in opposite directions, relative speed is $V_1 + V_2$. Time to cross = $\\frac{\\text{Sum of lengths}}{\\text{Relative Speed}} = \\frac{27 V_1 + 17 V_2}{V_1 + V_2} = 23$. By allegation or cross-multiplication: $27 V_1 + 17 V_2 = 23 V_1 + 23 V_2 \\implies 4 V_1 = 6 V_2 \\implies \\frac{V_1}{V_2} = \\frac{6}{4} = \\frac{3}{2}$."
+  },
+  {
+    "question_number": 19,
+    "question": "The average weight of some students in a class is 58.4 kg. When 5 students having an average weight of 62.8 kg join the class, the average weight of all students increases by 0.55 kg. What was the initial number of students in the class?",
+    "options": ["30", "35", "40", "45"],
+    "correct_answer": "35",
+    "logic": "Let initial students be $n$. Total excess weight brought by new students = $5 \\times (62.8 - 58.4) = 5 \\times 4.4 = 22$ kg. This excess weight increases the average of all $(n+5)$ students by $0.55$ kg. So, $0.55 \\times (n+5) = 22 \\implies n+5 = \\frac{22}{0.55} = 40 \\implies n = 35$."
+  },
+  {
+    "question_number": 20,
+    "question": "How many 5-digit numbers can be formed using the digits 0, 1, 3, 5, 7, 9 such that the number is divisible by 5 and digits are not repeated?",
+    "options": ["120", "216", "240", "720"],
+    "correct_answer": "216",
+    "logic": "To be divisible by 5, the number must end in 0 or 5. Case 1: Ends in 0. The remaining 4 positions can be filled using {1,3,5,7,9} in $^5P_4 = 120$ ways. Case 2: Ends in 5. The first digit cannot be 0, so there are 4 choices {1,3,7,9}. The remaining 3 positions can be filled with the remaining 4 digits (including 0) in $^4P_3 = 24$ ways. Number of ways = $4 \\times 24 = 96$. Total numbers = $120 + 96 = 216$."
+  },
+  {
+    "question_number": 21,
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the equation $x^2 - 5x + 3 = 0$, then find the equation whose roots are $\\frac{\\alpha}{\\beta}$ and $\\frac{\\beta}{\\alpha}$.",
+    "options": ["$x^2 - 19x + 3 = 0$", "$3x^2 - 19x - 3 = 0$", "$3x^2 + 19x + 3 = 0$", "$3x^2 - 19x + 3 = 0$"],
+    "correct_answer": "$3x^2 - 19x + 3 = 0$",
+    "logic": "Sum of original roots: $\\alpha+\\beta = 5$. Product: $\\alpha\\beta = 3$. The new roots are $R_1 = \\frac{\\alpha}{\\beta}$ and $R_2 = \\frac{\\beta}{\\alpha}$. Sum of new roots: $\\frac{\\alpha^2+\\beta^2}{\\alpha\\beta} = \\frac{(\\alpha+\\beta)^2 - 2\\alpha\\beta}{\\alpha\\beta} = \\frac{25 - 6}{3} = \\frac{19}{3}$. Product of new roots = $\\frac{\\alpha}{\\beta} \\times \\frac{\\beta}{\\alpha} = 1$. The required equation is $x^2 - (\\text{Sum})x + (\\text{Product}) = 0 \\implies x^2 - \\frac{19}{3}x + 1 = 0$, which simplifies to $3x^2 - 19x + 3 = 0$."
+  },
+  {
+    "question_number": 22,
+    "question": "The difference between compound interest and simple interest on a certain sum for 3 years at $15\\%$ p.a. is ₹2835. Find the sum.",
+    "options": ["₹30000", "₹35000", "₹40000", "₹45000"],
+    "correct_answer": "₹40000",
+    "logic": "The formula for the difference between CI and SI for 3 years is $D = P(\\frac{R}{100})^2(3 + \\frac{R}{100})$. Substitute values: $2835 = P(\\frac{15}{100})^2 (3 + \\frac{15}{100}) = P(0.15)^2 (3.15) = P \\times 0.0225 \\times 3.15 = P \\times 0.070875$. Thus, $P = \\frac{2835}{0.070875} = ₹40000$."
+  },
+  {
+    "question_number": 23,
+    "question": "In an election between two candidates, $15\\%$ of the voters did not cast their votes and 100 voters cast invalid votes. The winner got $45\\%$ of the total voters enrolled in the voting list and won by a margin of 400 votes. Find the total number of voters enrolled.",
+    "options": ["5000", "5500", "6000", "6500"],
+    "correct_answer": "6000",
+    "logic": "Let total enrolled voters be $x$. Votes cast = $0.85x$. Valid votes = $0.85x - 100$. The winner gets $0.45x$ votes. The loser gets (Valid votes - Winner) = $(0.85x - 100) - 0.45x = 0.40x - 100$. The margin is (Winner - Loser) = $0.45x - (0.40x - 100) = 0.05x + 100$. We are given margin = 400. So, $0.05x + 100 = 400 \\implies 0.05x = 300 \\implies x = \\frac{300}{0.05} = 6000$."
+  },
+  {
+    "question_number": 24,
+    "question": "The base of a right solid pyramid is a square of side 16 cm. If its slant height is 17 cm, find its volume.",
+    "options": ["1180 cm\u00b3", "1280 cm\u00b3", "1440 cm\u00b3", "1560 cm\u00b3"],
+    "correct_answer": "1280 cm\u00b3",
+    "logic": "The slant height ($l=17$), vertical height ($h$), and half of the base side ($a/2 = 8$) form a right-angled triangle. By Pythagoras theorem: $h^2 = l^2 - (a/2)^2 = 17^2 - 8^2 = 289 - 64 = 225$, so $h = 15$ cm. Volume of a pyramid = $\\frac{1}{3} \\times \\text{Base Area} \\times \\text{height} = \\frac{1}{3} \\times 16^2 \\times 15 = \\frac{1}{3} \\times 256 \\times 15 = 256 \\times 5 = 1280$ cm\u00b3."
+  },
+  {
+    "question_number": 25,
+    "question": "If $x^2 - 3x + 1 = 0$, find the value of $x^3 + x + \\frac{1}{x} + \\frac{1}{x^3}$.",
+    "options": ["18", "21", "24", "27"],
+    "correct_answer": "21",
+    "logic": "Divide the given equation by $x$: $x - 3 + \\frac{1}{x} = 0 \\implies x + \\frac{1}{x} = 3$. We need to find $(x^3 + \\frac{1}{x^3}) + (x + \\frac{1}{x})$. Using the identity $x^3 + \\frac{1}{x^3} = (x + \\frac{1}{x})^3 - 3(x + \\frac{1}{x})$, we get $3^3 - 3(3) = 27 - 9 = 18$. Now sum the two parts: $18 + 3 = 21$."
+  }
+]
